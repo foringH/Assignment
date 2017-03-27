@@ -47,7 +47,6 @@ public class ThreadManager {
 	public void setWriteContent(String line)
 	{
 		writeContent = writeContent + line;
-		//System.out.println("HERES"+writeContent);
 		
 	}
 	
