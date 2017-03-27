@@ -99,7 +99,7 @@ public class ThreadManager {
 					
 		        	merge(setNumber);
 		        	
-		        	System.out.println("I am here with1:" + result);
+		        	//System.out.println("I am here with1:" + result);
 				}
 				
 			}
@@ -118,7 +118,7 @@ public class ThreadManager {
 		        	
 		        	merge(setNumber);
 		        	
-		        	System.out.println("I am here with2:" + result);
+		        	//System.out.println("I am here with2:" + result);
 		        	
 		        	index++;
 					
